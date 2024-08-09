@@ -12,5 +12,9 @@
     "proyecto"
   ],
   "author": "Yani Chantre <yanny95ch@gmail.com>",
-  "license": "MIT "
+  "license": "MIT ",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
